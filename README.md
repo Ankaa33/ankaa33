@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**Ankaa33/ankaa33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+ 
+ 
+    
+  </head>
+  <body>
+    <h1 class="name">Ankaa33</h1>
+    <h3 class="hero">A <span class="text"></span></h3>
+    <h4 class="app"><span class="line"></span></h4>
+    <div class="container">
+    <div class="Loading"></div>
+  </div>
+   
+          
+   <!DOCTYPE html>
+<html>
+    <head>
+        <title> Animated Weather Forecast </title>
+    </head>
+    <body>
+        
+        <h1>Animated Weather Forecast</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="icon sun-shower">
+    <div class="cloud"></div>
+    <div class="sun">
+      <div class="rays">
+      </div>
+    </div>
+    <div class="rain"></div>
+</div>
+    </body>
+</html>
