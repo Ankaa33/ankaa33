@@ -1,6 +1,10 @@
 ## 🦉
-Olá eu sou Vanessa Viana R.<br>Estudante em desenvolvimento da Alura.<br>Apaixonada por tecnologias, economia e comunicação.<br>      <br> "O mundo mudou bem na minha vez"... Dado Schneider
-![profile-pic (3)](https://user-images.githubusercontent.com/109086900/178603854-db6dacb5-3f2e-49ef-925b-a8e4824836e0.png)
+
+![Linkedin banner geométrico azul ](https://user-images.githubusercontent.com/109086900/178605541-3a87fcc0-a75e-47f5-a761-bbe6257b82a7.png)
+
+<br>Estudante em desenvolvimento da Alura.<br>Apaixonada por tecnologias, economia e comunicação.<br>      <br> "O mundo mudou bem na minha vez"... Dado Schneider
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@vanessa_rich33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessavianarosa33) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@wanessa_rich33) 
