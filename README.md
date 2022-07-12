@@ -1,7 +1,7 @@
 ### Olá eu sou Vanessa Viana🦉
 ### "O Mundo mudou bem na minha vez" Dado Schneider.
 
-[![educação](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://coursera.org/share/c3380dae603787c1e4b4cee5a9e7447c)[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-viana-897942208/)[![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanessa__rich33/)[![habilidades](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](hhttps://cursos.alura.com.br/degree/certificate/537f7e48-54ba-45e5-a325-126046cd7f44)
+[![educação](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://coursera.org/share/c3380dae603787c1e4b4cee5a9e7447c)[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-viana-897942208/)[![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanessa__rich33/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankaa33&show_icons=true&theme=synthwave)
 
 ## Estudante em desenvolvimento
